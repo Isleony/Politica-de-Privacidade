@@ -1,6 +1,3 @@
-
-Claro! Aqui está um exemplo de texto para o arquivo README.md do seu repositório, que você pode ajustar conforme necessário:
-
 Extensão de Gestão Financeira
 Bem-vindo ao repositório da nossa Extensão de Gestão Financeira para o Google Chrome! Esta extensão é projetada para ajudar você a gerenciar suas finanças pessoais de forma fácil e eficiente, oferecendo funcionalidades como controle de despesas, relatórios detalhados e notificações sobre seus gastos.
 
